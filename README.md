@@ -12,7 +12,7 @@ Each project is in its own folder with its own README, code, and tests.
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Project 1: Rule-Based Chatbot](./project-01-rule-based-chatbot) | A chatbot that replies using dictionary lookup instead of if-elif chains | Complete |
-
+| [Project 2: Iris Classification](./project-02-iris-classification) | A KNN model that classifies iris flowers using confusion matrix and F1 score evaluation | Complete |
 ## Tech Stack
 
 - Python 3.11
