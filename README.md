@@ -13,12 +13,18 @@ Each project is in its own folder with its own README, code, and tests.
 |---------|-------------|--------|
 | [Project 1: Rule-Based Chatbot](./project-01-rule-based-chatbot) | A chatbot that replies using dictionary lookup instead of if-elif chains | Complete |
 | [Project 2: Iris Classification](./project-02-iris-classification) | A KNN model that classifies iris flowers using confusion matrix and F1 score evaluation | Complete |
+
 ## Tech Stack
 
 - Python 3.11
+- scikit-learn
 - pytest (for testing)
 
 ## Setup
 
 Each project has its own virtual environment and dependencies.
 See individual project READMEs for run instructions.
+
+## License
+
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
